@@ -294,7 +294,7 @@ public class ApiV1PostControllerTest {
     @DisplayName("글 작성")
     void write1() throws Exception {
 
-        String apiKey = "user1";
+        String apiKey = "user3";
         String title = "새로운 글 제목";
         String content = "새로운 글 내용";
 
